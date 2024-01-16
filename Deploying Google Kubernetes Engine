@@ -1,5 +1,5 @@
 #---------CHANGE ZONE-----------
-ZONE=u
+ZONE=
 
 
 REGION=${ZONE::-2}
